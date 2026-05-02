@@ -1,0 +1,1 @@
+This pull request adds the missing GitHub Skills activity to the list of extracurricular activities, so students can register for the newly announced program.
